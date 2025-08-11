@@ -1,2 +1,1 @@
-# B-HDtm
-💻​GPO💻​
+![B*HDtm logo](assets/B-HD.gif)
