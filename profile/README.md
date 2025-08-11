@@ -1,6 +1,6 @@
 # B-HD™ — Blockchain Hyper Developer
 
-![B-HD™ Gif](https://github.com/B-HDtm/.github/assets/B-HD.gif)
+![B-HD™ Gif](B-HD.gif)
 
 ---
 
