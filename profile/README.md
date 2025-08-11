@@ -36,7 +36,7 @@ We also develop useful projects for traders, crypto creators, and more!
 
 ## 🤝 Join Us!
 
-Want to be part of the revolution? Fill out the form and join the hyper development of the future!
+Want to be part of the revolution? Fill out the [form](https://forms.gle/6vG9Ue16EF7NbMFJA) and join the hyper development of the future!
 
 ---
 
