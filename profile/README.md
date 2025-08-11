@@ -1,5 +1,3 @@
-# B-HD™ — Blockchain Hyper Developer
-
 ![B-HD™ Gif](B-HD.gif)
 
 ---
