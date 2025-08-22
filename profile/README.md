@@ -14,16 +14,16 @@
 ## 🚀 About Us
 
 B-HD™ is a team of top-notch developers and crypto enthusiasts building **ultra-fast and secure blockchain solutions**.  
-We don’t just code — we’re shaping the future of decentralized finance and technology!
+We don’t just code — we’re shaping the future of **DeFi** and **Web3**!
 
 ---
 
 ## 🌐 Our Focus Areas
 
-- **Development of blockchain protocols** with maximum transaction processing speed  
-- **Hyperscaling** infrastructure for cryptocurrencies and DApps  
-- **Security and smart contract audits** at the highest level  
-- **Innovative tokenomics and DeFi solutions**
+- **⚡ Development of blockchain protocols** with maximum transaction processing speed  
+- **📈 Hyperscaling** infrastructure for cryptocurrencies and DApps  
+- **🔒 Security and smart contract audits** at the highest level  
+- **🪙 Innovative tokenomics and DeFi solutions**
 
 ---
 
@@ -49,4 +49,4 @@ Want to be part of the revolution? Fill out the [form](https://forms.gle/6vG9Ue1
 
 ---
 
-*Powered by B-HD™*
+*Powered by B-HD™* ❤️
