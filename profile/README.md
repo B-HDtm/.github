@@ -2,6 +2,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-Future-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-BW & ACO-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain%20Hyper%20Development%E2%84%A2-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made from the -heart-red?style=for-the-badge" />
+</p>
+
+---
+
 ## 🚀 About Us
 
 B-HD™ is a team of top-notch developers and crypto enthusiasts building **ultra-fast and secure blockchain solutions**.  
