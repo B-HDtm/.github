@@ -30,6 +30,7 @@ We don’t just code — we’re shaping the future of **DeFi** and **Web3**!
 ## 🔗 Contacts & Resources
 
 - Website: [B-HD™ Website](https://bhd.pp.ua)  
+- Telegram: [Official Telegram Channel](https://t.me/BHDtm)
 - GitHub: [B-HD™](https://github.com/B-HDtm)  
 - Email: markd.voznyuk@gmail.com
 
